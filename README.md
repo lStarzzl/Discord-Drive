@@ -23,7 +23,7 @@ Discord Drive is a storage solution using a exploit in discords bot system.
   * Navigate to the view tab
   * Click terminal
 
-1. **Paste this into the terminal**
+**1. Paste this into the terminal**
 ```bash
 python -m venv venv)
 
