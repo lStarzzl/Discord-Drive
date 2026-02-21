@@ -22,8 +22,6 @@ Discord Drive is a storage solution using a exploit in discords bot system.
   * Open Visual studio code
   * Navigate to the view tab
   * Click terminal
-**Paste this in the terminal**
-```bash
-git clone https://github.com/your-username/your-repository.git
 
-  
+**Paste this into the termianl**
+
