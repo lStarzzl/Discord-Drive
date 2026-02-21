@@ -48,7 +48,9 @@ pip install -r requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-    
+# Setting up Discord Bot
+
+Navigate to the [Discord Developer Portal](https://discord.com/developers/applications)
 
 
 
