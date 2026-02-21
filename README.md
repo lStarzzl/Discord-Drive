@@ -51,6 +51,27 @@ pip install -r requirements.txt
 # Setting up Discord Bot
 
 Navigate to the [Discord Developer Portal](https://discord.com/developers/applications)
+* Creating discord bot
+  * Click new application
+  * Name your bot and select the agreement box
+  * Click create
+ 
+* Setting Permissions / Copying bot token
+  * Navigate to the bot section on the left hand side
+  * Select the box that says "Message Content Intent"
+  * Scroll up in the bot tab
+  * Reset token / Copy it and save it for later
+
+ * Inviting the bot to your server
+  * Scroll down to "OAuth2 URL Generator" and select bot
+  * Scroll down more to Bot Permissions and select Administrator
+  * Scroll down to Generated URL and copy the link
+  * Paste that link into your browser and invite the bot to the server
+
+
+
+    
+
 
 
 
