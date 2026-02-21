@@ -16,5 +16,5 @@ Discord Drive is a storage solution using a exploit in discords bot system.
   * Sends your file back onto your computer
 
 # How To use the tool?
-<sub>v1.0.4 • Created by User123</sub>
+###### Text
   
