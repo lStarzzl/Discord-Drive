@@ -1,4 +1,16 @@
 # Discord-Drive
 A storage solution for discord. 
 
-## What is Discord-Drive?
+# What is Discord-Drive?
+Discord Drive is a storage solution using a exploit in discords bot system.
+* How it works:
+  * Decrypting file into bianary
+  * Translating bianary into base64
+  * Spitting the base64 into 5.15 MB chunks
+  * Sending 5.15 MB base64 chunks into discord
+* How Reconversion works:
+  * Takes 5.15 MB base64 from discord
+  * Adds them together and encrypts them back to bianary
+  * Use the bianary to convert it back into your original file
+
+  
