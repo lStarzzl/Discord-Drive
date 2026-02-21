@@ -1,7 +1,7 @@
 # Discord-Drive
 A storage solution for discord. 
 
-# What is Discord-Drive?
+# How does Discord-Drive work?
 Discord Drive is a storage solution using a exploit in discords bot system.
 * How it works:
   * Decrypting file into bianary
